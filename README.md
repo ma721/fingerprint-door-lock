@@ -119,4 +119,6 @@ IssueやDiscussionなどで気軽にコメントしてください。
 
 の順で進める予定です。
 
+![玄関ドア](./images/Door.JPG)
+
 
